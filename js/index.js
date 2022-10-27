@@ -26,7 +26,7 @@ for(let i=0; i<hacker1.length; i++){
 console.log(`so the Driver's name is ${driverName}`);
 
 let navigatorName ="";
-for(let i= hacker2.length - 1; i>0; i--){
+for(let i= hacker2.length - 1; i>0; i--){ 
     navigatorName += hacker2[i];
 }
 console.log(`look! I can write the Navigator's name in reverse: ${navigatorName}`);
